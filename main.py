@@ -1,5 +1,3 @@
-# Daryl Augustin SID#: 001197863
-
 import csv
 from Hash_Table import HashMap
 hash_table = HashMap()
