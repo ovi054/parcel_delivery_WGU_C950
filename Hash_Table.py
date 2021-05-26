@@ -1,4 +1,4 @@
-# Daryl Augustin 
+ 
 # creating has table here
 class HashTableEntry:
     def __init__(self, key, item):
